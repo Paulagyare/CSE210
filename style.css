@@ -4,6 +4,7 @@ code {
     background-color: yellow;
     border: 1px solid black;
     font-weight: bold;
+    align-items: center;
     /* padding: 5px; */
 }
 
